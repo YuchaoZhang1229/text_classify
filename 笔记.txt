@@ -26,3 +26,4 @@
             -4.1 将代码以及模型文件copy到linux服务器上，并在linux安装好运行环境，最终通过python命令启动服务即可；
             -4.2 通过python requests库远程访问linux上的服务进行check
 
+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
